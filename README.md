@@ -8,7 +8,6 @@
 # 💻 Tech Stack:
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SamuelNarh&theme=city_light&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamuelNarh&theme=city_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelNarh&theme=city_light&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
