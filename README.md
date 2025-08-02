@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m looking to collaborate on Fullstack web development projects<br>🤝 Always love challenges and solving complicated technical issues.<br>🌱 I’m currently learning more to upgrade myself<br>💬 Ask me about Fullstack Web development<br>⚡ Fun fact - I am lazy but smart
+I’m looking to collaborate on Fullstack web development projects<br>🤝 Always love challenges and solving complicated technical issues.<br>💬 Ask me about Fullstack Web development<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
